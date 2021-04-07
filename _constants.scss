@@ -1,0 +1,8 @@
+$paddingvar: 20px;
+$backgroundcolor1: #c0eea9;
+$backgroundcolor2: #97d279;
+@mixin genericStyle {
+  max-width: 700px;
+  text-align: center;
+  padding: 20px;
+}
